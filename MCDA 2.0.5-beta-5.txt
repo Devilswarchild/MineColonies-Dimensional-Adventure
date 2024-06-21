@@ -1,0 +1,691 @@
+PLEASE READ THE ENTIRE CHANGELOG BEFORE SUBMITTING ANY ISSUES IN DISCORD!!!!!
+
+
+
+MODS DISABLED:
+
+Spark - until someone needs to use it
+
+
+MODS ADDED:
+
+Adam's Ars PLus
+Ars Additions
+Ars Armiger
+Ars Artifice
+Ars Instrumentum
+Applied Flux
+Blocks You Need (Re-added due to update)
+Chipped
+Ender Storage
+Epic Knights: Japanese Armory
+Every Compat (Wood Good)
+Hive StyleColony (updated version)
+Hostile Neural Networks
+Integrated Stronghold
+Just Enough Calculation
+Just Stargate Mod (Aunis: Resurrection)
+ManyIdeas Doors
+Modular Routers
+Mouse Tweaks
+MythicBotany
+Noisium
+Polymorphic Energistics
+Refined Polymorphism
+Security Craft
+Tinted Dyes
+Tinted Sands
+Toybox
+Too Many Glyphs
+XNet
+Xtones Reworked
+Warp Portals
+
+added Oak Treehouse Style Addon: Roots
+added Medieval Oak Residences Addon Style
+
+QUESTS:
+
+Botania
+Infinite Abyss questline 
+Challenge Quests
+Toybox
+
+MODS UPDATED:
+
+Implemented a New Recipe for Pneumaticcraft harvest drone
+
+[Let's Do] API (letsdo-API-forge-1.2.13-forge.jar)
+[Let's Do] Beachparty (letsdo-beachparty-forge-1.1.5.jar)
+[Let's Do] Vinery (letsdo-vinery-forge-1.4.24.jar)
+Ad Astra (ad_astra-forge-1.20.1-1.15.18.jar)
+Ad Astra: Giselle Addon (Ad-Astra-Giselle-Addon-forge-1.20.1-6.8.jar)
+Additional Lanterns (additionallanterns-1.1.1a-forge-mc1.20.jar)
+Advanced Peripherals (AdvancedPeripherals-1.20.1-0.7.40r.jar)
+Allthemodium (allthemodium-1.20.1-47.1.25-2.5.1.jar)
+Almost Unified (almostunified-forge-1.20.1-0.9.3.jar)
+Ambient Sounds 6 (AmbientSounds_FORGE_v6.0.2_mc1.20.1.jar)
+Amendments (amendments-1.20-1.2.5.jar)
+Amplified Nether (Amplified_Nether_1.20.x_v1.2.5.jar)
+Apotheosis (Apotheosis-1.20.1-7.3.5.jar)
+Apothic Attributes (ApothicAttributes-1.20.1-1.3.5.jar)
+Applied Energistics 2 (appliedenergistics2-forge-15.2.4.jar)
+Applied Energistics 2 Wireless Terminals (ae2wtlib-15.2.3-forge.jar)
+Applied Flux (AppliedFlux-1.20-1.1.8-forge.jar)
+Armourer's Workshop (aarmourersworkshop-forge-1.20.1-3.0.0-beta.9.jar)
+Ars Elemental (ars_elemental-1.20.1-0.6.5.jar)
+Ars Énergistique (arseng-1.1.7.jar)
+Ars Nouveau (ars_nouveau-1.20.1-4.12.1-all.jar)
+Astral Dimension (Astral_1.7_Beta_2_1.20.1.jar)
+ATO - All The Ores (alltheores-1.20.1-47.1.3-2.2.4.jar)
+AzureLib (azurelib-neo-1.20.1-2.0.26.jar)
+Balm (balm-forge-1.20.1-7.3.4-all.jar)
+Better FPS - Render Distance[Forge] (betterfpsdist-1.20.1-4.4.jar)
+BlockUI (blockui-1.20.1-1.0.156-Release.jar)
+Blood Magic (bloodmagic-1.20.1-3.3.3-45.jar)
+Bookshelf (Bookshelf-Forge-1.20.1-20.2.13.jar)
+Botania (Botania-1.20.1-444-FORGE.jar)
+Builder's Delight (BuildersDelight-1.20.1-v.1.3.jar
+Caelus API (caelus-forge-3.2.0+1.20.jar)
+CC Tweaked (cc-tweaked-1.20.1-forge-1.111.0.jar)
+Clickable Advancements (clickadv-1.20.1-3.8.jar)
+Cloche Creations (cloche-creations-1.0.4-1.20.1.jar)
+Clumps (Clumps-forge-1.20.1-12.0.0.4.jar)
+CodeChicken Lib 1.8+ (CodeChickenLib-1.20.1-4.4.0.512-universal.jar)
+CoFH Core (cofh_core-1.20.1-11.0.2.56.jar)
+Collective (collective-1.20.1-7.62.jar)
+Colorful Hearts (colorfulhearts-forge-1.20.1-4.2.11.jar)
+Configurable Despawn Timer (configurabledespawntimer-1.20.1-4.1.jar)
+Cooking for Blockheads (cookingforblockheads-forge-1.20.1-16.0.6.jar)
+Corn Delight (corn_delight-1.0.4-1.20.1.jar)
+CosmeticArmours (CosmeticArmours - 1.3.7.1 - 1.20.1 - Forge.jar)
+Crabber's Delight (CrabbersDelight-1.20.1-1.1.4a.jar)
+CraftTweaker (CraftTweaker-forge-1.20.1-14.0.40.jar)
+Create: Diesel Generators (createdieselgenerators-1.20.1-1.2i.jar)
+Create Enchantment Industry (create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar)
+Create Ore Excavation (createoreexcavation-1.20-1.4.3.jar)
+Create: Liquid Fuel (createliquidfuel-2.1.1-1.20.1.jar)
+Create Ore Excavation (createoreexcavation-1.20-1.4.4.jar)
+CreativeCore (CreativeCore_FORGE_v2.11.30_mc1.20.1.jar)
+Cucumber Library (Cucumber-1.20.1-7.0.8.jar)
+Cuisine Delight (cuisinedelight-1.1.14.jar)
+Curios API (curios-forge-5.9.1+1.20.1.jar)
+Cyclic (Cyclic-1.20.1-1.12.9.jar)
+Cyclops Core (CyclopsCore-1.20.1-1.19.1.jar)
+Delightful (Delightful-1.20.1-3.5.5.jar)
+Doggy Talents Next (DoggyTalentsNext-1.20.1-1.18.18.jar)
+Domum Ornamentum (domum_ornamentum-1.20.1-1.0.186-RELEASE-universal.jar)
+Double Doors (doubledoors-1.20.1-5.7.jar)
+Dragon Mounts Legacy (dragonmounts-1.20.1-1.2.3-beta.jar)
+Dreadsteel (dreadsteel-1.20.1-1.1.6.3.jar)
+Dynamic View (dynview-1.20.1-4.0.jar)
+Easy Piglins (easy_piglins-1.20.1-1.0.5.jar)
+Easy Villagers (easy-villagers-forge-1.20.1-1.1.4.jar)
+Embeddium (embeddium-0.3.20+mc1.20.1.jar)
+Embeddium++ (embeddiumplus-1.20.1-v1.2.13.jar)
+Enchantment Descriptions (EnchantmentDescriptions-Forge-1.20.1-17.0.16.jar)
+End Remastered (endrem_forge-5.2.3-R-1.20.X.jar (newer file)
+End's Delight (ends_delight-1.20.1-2.0.jar)
+Endless Biomes (EndlessBiomes 1.5.1 - 1.20.1.jar)
+Ensorcellation (ensorcellation-1.20.1-5.0.2.24.jar)
+Entity Culling Fabric/Forge (entityculling-forge-1.6.6-mc1.20.1.jar)
+Entangled (entangled-1.3.18-forge-mc1.20.jar)
+Epic Knights: Shields, Armor and Weapons ([1.20.1-forge]-Epic-Knights-9.8.jar)
+Epic Samurai's (epicsamurai-0.0.44-1.20.1-neo.jar)
+EvilCraft (EvilCraft-1.20.1-1.2.39.jar)
+ExcessiveBuilding (Excessive Building [Forge] 1.20.1-3.0.1.jar)
+ExtendedAE (ExtendedAE-1.20-1.1.10-forge.jar)
+Extreme Reactors (ExtremeReactors2-1.20.1-2.0.80.jar)
+Fetzi's Asian Decoration (fetzisasiandeco-1.5.2-1.20.1.jar)
+FLIB (flib-1.20.1-0.0.13.jar)
+Flux Networks (FluxNetworks-1.20.1-7.2.1.15.jar)
+ForgeEndertech (ForgeEndertech-1.20.1-11.1.4.0-build.0572.jar)
+Formations Nether (formationsnether-1.0.4.jar)
+Framework (framework-forge-1.20.1-0.7.6.jar)
+FTB Chunks (ftb-chunks-forge-2001.3.1.jar)
+FTB Library (ftb-library-forge-2001.2.2.jar)
+FTB Quests (ftb-quests-forge-2001.4.6.jar)
+FTB Teams (ftb-teams-forge-2001.3.0.jar)
+FTB XMod Compat (ftb-xmod-compat-forge-2.1.1.jar)
+Furnitura (furnitura-1.12-1.20.1.jar)
+GeckoLib (geckolib-forge-1.20.1-4.4.6.jar)
+Glodium (Glodium-1.20-1.5-forge.jar)
+ImmediatelyFast (ImmediatelyFast-Forge-1.2.18+1.20.4.jar)
+Immersive Aircraft (immersive_aircraft-1.0.1+1.20.1-forge.jar)
+Industrial Foregoing (industrial-foregoing-1.20.1-3.5.17.jar)
+Infinite Abyss (Infinite Abyss 1.20.1 version 1.8.4.jar)
+Integrated API (integrated_api-1.5.1+1.20.1-forge.jar)
+Integrated Dungeons and Structures (idas_forge-1.9.3+1.20.1.jar)
+Inventory Essentials (inventoryessentials-forge-1.20.1-8.2.6.jar)
+Iron Bookshelves (ironbookshelves-1.20.1-1.3.1-forge.jar)
+Iron Jetpacks (IronJetpacks-1.20.1-7.0.5.jar)
+Iron Ladders (ironladders-1.20.1-2.2.3-forge.jar)
+Jade (Jade-1.20.1-forge-11.9.3.jar)
+Just Enough Items (jei-1.20.1-forge-15.3.0.8.jar)
+JourneyMap (journeymap-1.20.1-5.9.23-forge.jar)
+JourneyMap Integration (jmi-forge-1.20.1-0.14-47.jar)
+Kotlin for Forge (kotlinforforge-4.11.0-all.jar)
+Large Ore Deposits (AdLods-1.20.1-8.1.2.0-build.0424.jar
+Let Fish Love (letfishlove-2.0.4.jar)
+Lithereal (lithereal-1.4.3.jar)
+Loot Integrations (lootintegrations-1.20.1-3.4.jar)
+Lootr (lootr-forge-1.20-0.7.34.86.jar)
+Lucky's Cozy Home (cozy_home-3.0.3.2-forge-1.20.1.jar)
+Macaw's Bridges (mcw-bridges-3.0.0-mc1.20.1forge.jar)
+Macaw's Doors (mcw-doors-1.1.1forge-mc1.20.1.jar)
+Macaw's Fences and Walls (mcw-fences-1.1.2-mc1.20.1forge.jar)
+Macaw's Lights and Lamps (mcw-lights-1.1.0-mc1.20.1forge.jar)
+Macaw's Paths and Pavings (mcw-paths-1.0.5-1.20.1forge.jar)
+Macaw's Trapdoors (mcw-trapdoors-1.1.3-mc1.20.1forge.jar)
+MEGA Cells (megacells-forge-2.4.4-1.20.1.jar)
+Mekanism (Mekanism-1.20.1-10.4.8.43.jar)
+Mekanism Additions (MekanismAdditions-1.20.1-10.4.8.43.jar)
+Mekanism Generators (MekanismGenerators-1.20.1-10.4.8.43.jar)
+Mekanism Tools (MekanismTools-1.20.1-10.4.8.43.jar)
+MineColonies (minecolonies-1.20.1-1.1.563-RELEASE.jar)
+ModernFix (modernfix-forge-5.18.1+mc1.20.1.jar)
+Modonomicon (modonomicon-1.20.1-forge-1.73.0.jar)
+Moonlight Lib (moonlight-1.20-2.12.1-forge.jar)
+Moving Elevators (movingelevators-1.4.7-forge-mc1.20.1.jar)
+Mysterious Mountain Lib (mysterious_mountain_lib-1.4.7-1.20.1.jar)
+Mystical Agradditions (MysticalAgradditions-1.20.1-7.0.3.jar)
+Mystical Agriculture (MysticalAgriculture-1.20.1-7.0.11.jar)
+Nether Depths Upgrade (netherdepthsupgrade-3.1.5-1.20.jar)
+Nosiphus Furniture Mod (nfm-2024.05.11-1.20.1.jar)
+Nullscape (Nullscape_1.20.x_v1.2.6.jar)
+Occultism (occultism-1.20.1-1.132.1.jar)
+Oculus (oculus-mc1.20.1-1.7.0.jar)
+Packet Fixer (packetfixer-forge-1.4.2-1.19-to-1.20.1.jar)
+Physics Mod (physics-mod-3.0.14-mc-1.20.1-forge.jar)
+Pipe Connector (pipe_connector-1.20.1-0.3.6.jar)
+Pipez (pipez-forge-1.20.1-1.2.12.jar)
+Placebo (Placebo-1.20.1-8.6.2.jar)
+PlayerRevive (PlayerRevive_FORGE_v2.0.25_mc1.20.1.jar)
+PneumaticCraft: Repressurized (pneumaticcraft-repressurized-6.0.15+mc1.20.1.jar)
+PolyLib (polylib-forge-2000.0.3-build.143.jar)
+Polymorph (polymorph-forge-0.49.5+1.20.1.jar)
+Productive Bees (productivebees-1.20.1-12.5.3.jar)
+Puzzles Lib (PuzzlesLib-v8.1.20-1.20.1-Forge.jar)
+Quark (Quark-4.0-458.jar)
+ResourcefulLib (resourcefullib-forge-1.20.1-2.1.25.jar)
+Searchables (Searchables-forge-1.20.1-1.0.3.jar)
+Shadowlands (shadowlands-3.10.5.jar)
+ShadowizardLib (shadowizardlib-1.20.1-1.1.5.jar)
+Simple Magnets (simplemagnets-1.1.11-forge-mc1.20.jar)
+Skin Layers 3D (skinlayers3d-forge-1.6.6-mc1.20.1.jar)
+Sky Villages (SkyVillages-1.0.4-1.19.2-1.20.1-forge-release.jar)
+SmartBrainLib (SmartBrainLib-forge-1.20.1-1.14.jar)
+Sophisticated Backpacks (sophisticatedbackpacks-1.20.1-3.20.3.1044.jar)
+Sophisticated Core (sophisticatedcore-1.20.1-0.6.22.611.jar)
+Spawn Balance Utility (spawnbalanceutility-1.20-46.13.5.jar)
+Stack Refill (stackrefill-1.20.1-4.4.jar)
+Storage Racks (storageracks-1.20.1-1.9.jar)
+Structory Towers (Structory_Towers_1.20.x_v1.0.7.jar)
+Structure Essentials (structureessentials-1.20.1-3.4.jar)
+Structure Gel API (structure_gel-1.20.1-2.16.2.jar)
+Structurize (structurize-1.20.1-1.0.733-RELEASE.jar)
+Stylecolonies (stylecolonies-1.4.jar)
+Supreme Mining Dimensions (SupremeMiningDimensions-1.20.1-V1.4.4.2.jar)
+Supplementaries (supplementaries-1.20-2.8.15.jar)
+TerraBlender (TerraBlender-forge-1.20.1-3.0.1.7.jar)
+Tetra (tetra-1.20.1-6.3.0.jar)
+The Aether (aether-1.20.1-1.4.2-neoforge.jar)
+The New Shutters (shutter-2.0.4-1.20.1.jar)
+Thermal Cultivation (thermal_cultivation-1.20.1-11.0.1.24.jar)
+Thermal Dynamics (thermal_dynamics-1.20.1-11.0.1.23.jar)
+Thermal Expansion (thermal_expansion-1.20.1-11.0.1.29.jar)
+Thermal Foundation (thermal_foundation-1.20.1-11.0.6.70.jar)
+Thermal Innovation (thermal_innovation-1.20.1-11.0.1.23.jar)
+Thermal Integration (thermal_integration-1.20.1-11.0.1.27.jar)
+Tinted Campfires (Tinted Campfires-1.20.1-1.2.11.jar)
+Tinted Grass (tinted_grass-1.20.1-1.0.5.jar)
+Tinted Torches (tinted_torches-1.20.1-2.0.0.jar)
+Titanium (titanium-1.20.1-3.8.28.jar)
+TorchMaster (torchmaster-20.1.6.jar)
+TownTalk (towntalk-1.20.1-1.1.0.jar)
+Twilight's Flavors and Delight (twilightdelight-2.0.11.jar)
+Unseen World (unseen_world-3.5.jar)
+Vintage Delight (vintagedelight-0.0.12.jar)
+Wormhole (Portals) (wormhole-1.1.16-forge-mc1.20.jar)
+ZeroCore2 (ZeroCore2-1.20.1-2.1.44.jar)
+Zeta (Zeta-1.0-19.jar)
+Zume (zume-1.0.0.jar)
+Immersive Ores Downgraded To (immersiveores-120.1-0.6.jar)
+
+MODS REMOVED:
+
+TexTrue's Embeddium Options
+Water Erosion (Disabled Until Issues with minecolonies can be dealt with)
+Stargate Journey (Replaced with Just Stargate Mod)
+
+MODS CURRENTLY UNDER CONSIDERATION:
+
+Better Villages - Bountiful
+Better Villages - Immersive Engineering
+BYG
+Connectivity
+Decoration & Furniture
+Draconic Evolution
+Evolved Resources
+Integrated Stronghold- Biomes O' Plenty Integration
+Integrated Stronghold- End Remastered Integration
+Laser Bridges & Doors
+Mystcraft
+Respawn Obelisks
+RFTools Base
+Shimmer
+TechGuns (When it gets updated)
+
+
+MODLIST:
+
+[Let's Do] API
+[Let's Do] Beachparty
+[Let's Do] Vinery
+Ad Astra
+Ad Astra Giselle Addon
+Additional Banners
+Additional Lanterns
+Adorn
+Advanced Compass
+Advanced Peripherals
+Advancement Plaques [Forge]
+Advent of Ascension
+AEInfinityBooster
+AeroBlender
+Aether Delight
+AI Improvements
+Allomancy
+Allthemodium
+Almost Unified
+Ambient Environment
+AmbientSounds 5
+Amendments
+Amplified Nether
+Another Furniture
+Apotheosis
+Apotheotic Additions
+Apothic Attributes
+AppleSkin
+Applied Cooking
+Applied Energistics 2
+Applied Energistics 2 Wireless Terminals
+Applied Mekanistics
+Aquaculture 2
+Aquaculture Delight
+Architect's Palette
+Architectury API
+Armourer's Workshop
+Ars Creo
+Ars Elemental
+Ars Énergistique
+Ars Nouveau
+Ars Ocultas 
+Astral Dimension
+ATO - All The Ores
+AttributeFix
+AzureLib
+B.F. End Cities
+Bad Wither No Cookie - Reloaded
+Balm (Forge Edition)
+Basic End Ores
+Basic Nether Ores
+Better Advancements
+Better Fps - Render Distance[Forge]
+Better Furniture
+Better Villages - Forge
+Beyond The Nether
+Biome Music[ForgeFabric]
+Biomes O' Plenty
+BisectHosting Server Integration Menu [FORGE]
+BlockUI
+Blood Magic
+Blue Skies
+Bookshelf
+Botania
+Botarium
+Bountiful (Forge)
+Builders Crafts & Additions (Forge)
+Builder's Delight
+Byzantine Style Pack for Minecolonies
+Caelus API
+Cagerium
+Canary
+Carry On
+CastleBlocks
+Catalogue
+CC Tweaked
+Chef's Delight
+Chisels & Bits - For Forge
+ChristmasColonies
+Chunk Sending[ForgeFabric]
+Citadel
+Clickable advancements[ForgeFabric]
+Cloche Creations
+Cloth Config API
+Clumps
+CoFH Core
+Collective
+Colorful Hearts
+Comforts (Fabric/Forge/Quilt)
+Configurable Despawn Timer
+Configured
+Connected Glass
+Construction Wand
+Controlling
+Cooking For Blockheads
+Corail Pillar
+Corail Woodcutter
+Corn Delight[Forge]
+Corpse
+Cosmetic Armor Reworked
+CosmeticArmors
+Crabber's Delight
+CraftTweaker
+Crawl on Demand
+Create
+Create Crafts & Additions
+Create Enchantment Industry
+Create Jetpack
+Create Ore Excavation
+Create Sifting
+Create Stuff & Additions
+Create: Diesel Generators
+Create: Haven Qualities
+Create: Liquid Fuel
+CreateTweaker
+CreativeCore
+Creeper Firework
+Creeper Overhaul
+Croptopia
+Croptopia Delight
+CTD Core
+Cucumber Library
+Cuisine Delight
+Cupboard
+Curios API (Forge)
+Custom Portal API [Forge]
+Cyclic
+Cyclops Core
+Dark Mode Everywhere
+Deeper and Darker
+Dense Ores - Abundant!
+Dense Trees
+DEUF - Duplicate Entity UUID Fix
+Doggy Talents Next
+Domum Ornamentum
+Double Doors
+Dragon Mounts Legacy
+Dreadsteel
+Dynamic View[Forge]
+Easy Piglins
+Easy Villagers
+Eccentric Tome
+EdivadLib
+Embeddium
+Embeddium++
+Enchanting Infuser [Forge & Fabric]
+Enchantment Descriptions
+End Remastered
+End's Delight
+Ender IO (currently only in alpha, some things may not work yet)
+Ender's Delight
+Enderite Mod (for Forge)
+Endless Biomes
+Enlightend
+Ensorcellation
+Entangled
+Entity Culling Fabric/Forge
+EpheroLib
+Epic Knights: Addon
+Epic Knights'n'Mages
+Epic Knights Shields, Armor and Weapons [Fabric & Forge]
+Epic Samurai's
+ESSENTIAL MOD (FOR SINGLE PLAYER ONLY)
+EvilCraft
+Excessive Building
+Exline's Furniture Mod
+Extended AE
+Extra Carpets
+ExtraStorage
+Extreme Reactors
+Fantasy's Furniture
+Farmer's Delight
+Farming For Blockheads
+Farsight [Forge]
+Fast Portals
+Fastload
+FastSuite
+FerriteCore (Forge)
+Fetzi's Asian Decoration
+fix GPU memory leak[ForgeFabric]
+Flux Networks
+Forbidden and Arcanus
+ForgeEndertech
+Formations: Nether
+Formations Structures
+Framework
+FTB Backups 2
+FTB Chunks (Forge)
+FTB Essentials (Forge & Fabric)
+FTB Library (Forge)
+FTB Quests (Forge)
+FTB Ranks (Forge)
+FTB Teams (Forge)
+FTB XMod Compat
+Furnitura
+Furniture Expanded
+Fusion (Connected Textures)
+Gaming Deco
+Game Menu Mod Option [Forge]
+GeckoLib
+Get It Together, Drops!
+Goblin Traders
+GravelMiner
+Handcrafted
+Ice & Fire: Dragons
+Iceberg [Forge]
+ImmediatelyFast
+Immersive Aircraft
+Immersive Armors
+Immersive Engineering
+Immersive Ores
+Immersive Paintings 
+Industrial Foregoing
+Infinite Abyss
+Integrated Dungeons & Structures
+Inventory Essentials
+Inventory Sorter
+Iron Bookshelves
+Iron Bows
+Iron Chests
+Iron Ender Chests
+Iron Furnaces
+Iron Ladders
+Iron Jetpacks
+Item Filters
+Jade
+Jade Addons
+JadeColonies
+JourneyMap
+JourneyMap Integration
+Just Another Rotten Flesh to Leather Mod
+Just Enough Items
+Just Enough Resources
+Kambrik
+KleeSlabs
+Kotlin For Forge
+Krypton Reforged
+Laendli Transport
+Large Ore Deposits
+Leaves Be Gone
+Let Fish Love
+LevelHearts
+Library Ferret - Forge
+Lithereal
+Log Begone
+Loot Integrations
+Lootr
+Lucky's Cozy Home
+Macaw's Bridges
+Macaw's Doors
+Macaw's Fences and Walls
+Macaw's Furniture
+Macaw's Lights and Lamps
+Macaw's Paths and Pavings
+Macaw's Trapdoors
+Macaw's Windows
+Magic Vibe Decoration
+Medieval Music
+Mega Cells
+Mekanism
+Mekanism Additions
+Mekanism Generators
+Mekanism Tools
+Mighty Mail
+MineColonies
+MineColonies For ComputerCraft
+Minecraft Transit Railway
+Miner's Delight
+Mo' Glowstone
+Mo' Glowstone Lamps 
+ModernFix
+Modonomicon
+More Beautiful Bookshelves (Stone Bookshelves)
+Moving Elevators
+MrCrayfish's Furniture Mod
+Multi-Piston
+mutil
+My Server Is Compatible
+Mysterious Mountain Lib
+Mystical Adaptations
+Mystical Agradditions
+Mystical Agriculture
+Mystical Agriculture Tiered Crystals
+Nature's Compass
+Neat
+Nether Depths Upgrade
+Nether's Delight
+Nosiphus Furniture Mod
+No Chat Reports
+Not Enough Recipe Book
+Nullscape
+Occultism
+Ocean's Delight
+Oculus
+Oreberries Replanted
+Ore Excavation
+Out of Sight
+Packet Fixer
+Pam's HarvestCraft 2 - Crops
+Pam's HarvestCraft 2 - Food Core
+Pam's HarvestCraft 2 - Food Extended
+Pam's HarvestCraft 2 - Trees
+Patchouli
+Patterned Glass
+Physics Mod
+Pipe Connector
+Pipez
+Placebo
+Player Companions
+PlayerAnimator
+PlayerRevive
+PneumaticCraft Repressurized
+Polymorph
+Portable Crafting Table
+Powah! Rearchitected
+Productive Bees
+Puzzles Lib
+Quark
+Quark Delight
+Reap Mod
+Reborn Storage
+Refined Cooking
+Refined Storage
+Refined Storage Addons
+Resourceful Config
+Resourceful Lib
+RSInfinityBooster
+Rune Craft
+Saturn
+Savage Ender Dragon
+Searchables
+SebastrnLib
+Server Performance - Smooth Chunk Save
+Shadowlands
+ShadowizardLib
+Shoppy
+Simple Magnets
+Simply Light
+Skart's Decorations
+Skin Layers 3D
+Skinned Lanterns
+Sky Villages
+SmartBrainLib
+Smelting Plus
+Sophisticated Backpacks
+Sophisticated Core
+spark
+Spawn Balance Utility
+Spice of Life Carrot Edition
+Stack Refill
+Stargate Journey
+Star Wars Planets Ad Astra!
+Storage Drawers
+Structory Towers
+Structure Essentials
+Structure Gel API
+Structurize
+Stylecolonies
+SuperMartijn642's Config Lib
+SuperMartijn642's Core Lib
+Supplementaries
+Supreme Mining Dimensions
+TerraBlender
+Tetra
+Tetranomicon
+TexTrue's Embeddium Options
+Thaumon
+The Aether
+The Abyss II: Other Side
+The New Shutters
+The Twilight Forest
+The Undergarden
+Thermal Cultivation
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+Thermal Innovation
+Thermal Integration
+Time Control
+Tinted Campfires
+Tinted Grass
+Tinted Torches
+Titanium
+Tome Of Blood: Rebirth
+Torchmaster
+TownTalk
+TrashSlot
+Tree Harvester
+Tropicraft
+Twilight Forest The Lost Blocks
+Twilight's Flavors & Delight
+Ultris Boss Expansion
+Underwater Enchanting
+Universal Grid
+Unseen World
+Valhelsia Core
+Variant Crafting Tables
+Vintage Delight
+Wandering Cowards
+Water Erosion
+Waystones
+Waystones Teleport Pets
+Weather Settings
+Woodster
+Wormhole (Portals)
+XYCraft
+XYCraft: Machines
+XYCraft: World
+ZeroCore 2
+Zeta
