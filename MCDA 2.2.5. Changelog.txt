@@ -1,0 +1,1016 @@
+PLEASE READ THE ENTIRE CHANGELOG BEFORE SUBMITTING ANY ISSUES IN DISCORD!!!!!
+
+
+***
+
+_**FORGE VERSION:**_
+
+Updated to Forge 47.3.33
+
+***
+
+
+_**MODS DISABLED:**_
+
+
+
+***
+
+
+_**MENU CHANGES:**_
+
+New Songs: 
+
+
+
+
+***
+
+_**COLONY UPDATES**_
+
+
+
+***
+
+_**SERVER FILES:**_
+
+Loot Integrations (completely optional file)
+
+***
+
+
+
+_**MODS ADDED:**_
+
+Mythrais
+
+Rustic Engineer
+
+Tinted Lamps
+
+
+***
+
+_**QUESTS ADDED:**_
+
+Added Content Based Entries as a List in FTB Quests Book (if you feel like adding to these please make sure to keep it simple and straightforward in a way that teaches others how to progress through the mod (they wont show due to not having any data and can only be seen in edit mode.)
+
+***
+
+_**SCRIPTS ADDED:**_
+
+
+***
+
+_**CONFIGS CHANGED:**_
+
+
+
+***
+
+_**MODS UPDATED:**_
+
+Ad Astra (1.15.20)
+
+AEInfinityBooster (v1.20.1-1.0.0+47)
+
+Amendments (1.20-1.2.19.jar)
+
+Another Furniture (3.0.2-Forge 1.20.1)
+
+Applied Flux (1.20-1.2.1-forge.jar)
+
+Aquaculture (1.20.1-2.5.5.jar)
+
+Armourer's Workshop (1.20.1-3.2.0-beta)
+
+Astral Dimension (1.8.1_1.20.1) [New Content]
+
+Balm (forge-1.20.1-7.3.25-all.jar)
+
+Better Villages (3.3.0-forge 1.20.1)
+
+Blocks You Need (v1.8.2-1.20.1-Forge)
+
+Blueprint (1.20.1-7.1.2)
+
+Byzantine Styles Pack for MineColonies (1.21.1-30.jar)
+
+Chloride [Embeddium++] (forge-mc1.20.1-v1.5.4)
+
+Collective (1.20.1-7.94)
+
+Connectivity (1.20.1-7.1.jar)
+
+Cooking for Blockheads (forge-1.20.1-16.0.13.jar)
+
+CraftTweaker (1.20.1-14.0.57.jar)
+
+Create (6.0.4-1.20.1)
+
+Curios API (5.12.1+1.20.1.jar)
+
+Dawn of Time (1.20.1-v1.5.11)
+
+Dis-Enchanting Table (mc.1.20-4.0.0)
+
+Domum Ornamentum (1.20.1-1.0.285-snapshot-universal.jar)
+
+Dragon Magic and Relics (dmnr-3.2.1.jar)
+
+Dragon Mounts Legacy: More Dragons (1.6-1.20.jar) [added a new dragon]
+
+e4mc (forge-5.3.0)
+
+Ender IO (6.2.11-beta) [Conduits should now work properly without crashing]
+
+Extreme Reactors (1.20.1-2.0.92.jar)
+
+Factions And Curiosities (1.2.10.jar)
+
+Fast Async World Save (1.20.1-2.4.jar)
+
+Forestry: Community Edition (2.5.1) [New Bees]
+
+Framed Blocks (9.4.1.jar)
+
+FTB Quests (2001.4.12.jar)
+
+FTB Ranks (2001.1.4.jar)
+
+Fusion (1.2.5-forge-1.20.1.jar)
+
+GeckoLib (forge-1.20.1-4.7.1.2.jar)
+
+Gendustry (1.0.3)
+
+ImmediatelyFast (1.3.6)
+
+Immersive Aircraft (forge-1.20.1-1.2.2)
+
+Klee Slabs (1.20.1-15.0.6.jar)
+
+Large Ore Deposits (1.20.1-8.1.4.0-build.1012.jar)
+
+Laser Bridges & Doors (1.20.1-forge-5)
+
+LDLib (1.20.1-1.0.38.d-forge)
+
+Loot Integrations (1.20.1-4.2.jar)
+
+Lootr (forge-1.20-0.7.35.91.jar)
+
+Macaw's Paths and Pavings (mc1.20.1-v1.1.0)
+
+Mana and Artifice (forge-1.20.1-3.1.0.5-all.jar)
+
+Mantle (1.11.44-1.20.1) [Nolonger in Alpha]
+
+Mekanism (1.20.1-10.4.15.75.jar)
+
+Mekanism Tools (1.20.1-10.4.15.75.jar)
+
+MineColonies (1.20.1-1.1.829-snapshot.jar)
+
+MineColonies: Block Party (1.1.0-forge-1.20.1.jar)
+
+Moonlight Lib (1.20-2.13.79-forge.jar)
+
+Moving Elevators (1.4.11-forge-1.20.1)
+
+MrCrayfish's Furniture Mod: Refurbished (1.0.12)
+
+Mystical Agriculture (1.20.1-7.0.17.jar) [Soulium Spawner and Harvester Algorithms have been Improved]
+
+Occultism (1.20.1-1.141.4.jar)
+
+OctoLib (forge-0.5.0.1+1.20.1.jar)
+
+Oh The Biomes We've Gone (1.5.9)
+
+Oh The Trees You'll Grow (forge-1.20.1-1.3.7)
+
+Placebo (1.20.1-8.6.3.jar)
+
+Quark (4.0-461.jar)
+
+Resourceful Config (2.1.3)
+
+Server Performance - Smooth Chunk Save (1.20.1-4.1.jar) [reduce lag by skipping protochunk saving]
+
+Sophisticated Backpacks (1.20.1-3.23.6.12.11.jar)
+
+Sophisticated Core (1.20.1-1.2.22.902.jar)
+
+Stargate Journey (1.20.1-0.6.38)
+
+Structurize (1.20.1-1.0.766-snapshot.jar)
+
+Supplementaries (1.20-3.1.21.jar)
+
+TerraBlender (Forge-1.20-3.0.1.10)
+
+The Midnight (0.6.6)
+
+The New Shutters (2.1.1-1.20.1.jar)
+
+Tinkers' Construct (3.9.2.37-1.20.1)
+
+TrashSlot (1.20-15.1.2.jar)
+
+Vampirism - Become a Vampire (1.20.1-1.10.13)
+
+Waystones (1.20.1-14.1.11.jar)
+
+Werewolves - Become a Beast (1.20.1-2.0.2.5)
+
+YetAnotherConfigLib (3.6.6-forge-1.20.1)
+
+Zeta (1.0-28.jar)
+***
+
+
+_**MODS REMOVED:**_
+
+Advanced Peripherals
+
+CC: Tweaked
+
+Laendli Transport (Replaced with Rustic Engineer)
+
+MineColonies for ComputerCraft
+
+Mo' Glowstone
+
+Mo' Glowstone Lamps
+
+Structure Essentials
+
+Zume (Nolonger Needed)
+***
+
+
+_**MODS CURRENTLY UNDER CONSIDERATION:**_
+
+AbyssalCraft
+
+Decoration & Furniture
+
+Demon Realm
+
+Distant Worlds
+
+MagiChem (MnA Addon)
+
+MnA Witchcraft
+
+Mystcraft
+
+Stellaris (will replace ad astra if it ever comes to 1.20.1)
+
+TechGuns (When it gets updated)
+
+The Indigo
+
+The Wetlands
+
+Thaumcraft
+
+True Darkness Elementriy
+
+XK's Decoration
+
+Wither Spawn Animation
+
+***
+
+
+_**MODLIST:**_
+
+Abyssal Decor
+
+Abyssal Descent
+
+Ad Astra
+
+Ad Astra Giselle Addon
+
+Adaptive Performance Tweaks Core
+
+Additional Banners
+
+Additional Lanterns
+
+AdvancedAE
+
+Advanced Peripherals
+
+Advancement Plaques [Forge]
+
+AEInfinityBooster
+
+AeroBlender
+
+AI Improvements
+
+aleki's Nifty Ships
+
+Almost Unified
+
+Ambient Environment
+
+AmbientSounds 6
+
+Amendments
+
+Amplified Nether
+
+Another Furniture
+
+AppleSkin
+
+Applied Cooking
+
+Applied Energistics 2
+
+Applied Energistics 2 Wireless Terminals
+
+Applied Flux
+
+Applied Mekanistics
+
+Ars Artillery
+
+Ars Énergistique
+
+Ars Nouveau
+
+Ars Ocultas
+
+Aquaculture 2
+
+Architect's Palette
+
+Architectury API
+
+Armourer's Workshop
+
+Astral Dimension
+
+Athena
+
+ATi Structures - Mod
+
+AttributeFix
+
+AutoRegLib
+
+Bad Mobs
+
+Bad Wither No Cookie - Reloaded
+
+Balm (Forge Edition)
+
+Basic End Ores
+
+Basic Nether Ores
+
+Better Advancements
+
+Better Fps - Render Distance[Forge]
+
+Better Villages - Forge
+
+Biome Music[ForgeFabric]
+
+Biomes O' Plenty
+
+BisectHosting Server Integration Menu [FORGE]
+
+BjornLib
+
+Blocks You Need - Industrial, Steampunk, Laboratory, Space & More!
+
+BlockUI
+
+Blood Magic
+
+Blue Skies
+
+Bookshelf
+
+Botania
+
+Botarium
+
+Byzantine Style Pack for Minecolonies
+
+CastleBlocks
+
+Catalogue
+
+CC Tweaked
+
+Chipped
+
+Chisels & Bits - For Forge
+
+Chunk Sending[ForgeFabric]
+
+Cloche Creations
+
+Cloth Config API
+
+Clumps
+
+CodeChicken Lib 1.8+
+
+CoFH Core
+
+Collective
+
+Colorful Hearts
+
+Comforts (Fabric/Forge/Quilt)
+
+Configurable Despawn Timer
+
+Configured
+
+Connected Glass
+
+Connectivity
+
+Construction Wand
+
+Controlling
+
+Cooking For Blockheads
+
+CorgiLib
+
+Corpse
+
+Cosmetic Armor Reworked
+
+CraftTweaker
+
+CrashExploitFixer (to permanently fix a potential server exploit, this mod wont be necessary in 1.21.1)
+
+CreativeCore
+
+Creeper Firework
+
+Creeper Overhaul
+
+Croptopia
+
+CTD Core
+
+Cucumber Library
+
+Cupboard
+
+Curios API (Forge)
+
+Custom Portal API [Forge]
+
+Dark Mode Everywhere
+
+Dark Utilities
+
+Dawn of Time - Builder Edition
+
+Deeper and Darker
+
+Dense Ores - Abundant!
+
+Dense Trees
+
+DEUF - Duplicate Entity UUID Fix
+
+Dis-Enchanting Table
+
+Domum Ornamentum
+
+Draconic Evolution
+
+Dragon Magic and Relics (MnA Addon)
+
+Dragon Mounts: Even More Dragons
+
+Dragon Mounts Legacy
+
+Dragon Mounts: More Dragons
+
+Dragon Nest
+
+Dragonite Gear
+
+Dreadsteel
+
+Dynamic View[Forge]
+
+e4mc
+
+Eccentric Tome
+
+Embeddium
+
+Embeddium++
+
+Embers Rekindled
+
+Enchantment Descriptions
+
+End Remastered
+
+Ender IO
+
+Ender Storage 1.8+
+
+Ender's Delight
+
+Enderite Mod (for Forge)
+
+The Endergetic Expansion (End Biomes)
+
+Endermen Overhaul
+
+Engineer's Decor Ported
+
+Entangled
+
+EpheroLib
+
+Epic Knights Shields, Armor and Weapons [Fabric & Forge]
+
+Euphoria Patches
+
+Extended AE
+
+Extra Carpets
+
+Extreme Reactors
+
+Factions And Curiosities (MnA Addon)
+
+FancyMenu
+
+Fantasy's Furniture
+
+Farmer's Delight
+
+Farming For Blockheads
+
+Farsight [Forge]
+
+Fast Async World Save
+
+Fast Leaf Decay
+
+Fast Portals
+
+Fastload
+
+Fast Furnace
+
+Feature Recycler
+
+FerriteCore (Forge)
+
+FeyWild
+
+fix GPU memory leak[ForgeFabric]
+
+FLIB
+
+Flux Networks
+
+Forbidden and Arcanus
+
+Forestry: Community Edition
+
+ForgeEndertech
+
+Formations (Structures Library)
+
+Formations: Nether
+
+FramedBlocks
+
+Framework
+
+FTB Backups 2 (optional) (server)
+
+FTB Chunks (Forge) (optional) (server)
+
+FTB Essentials (Forge & Fabric)
+
+FTB Library (Forge)
+
+FTB Quests (Forge)
+
+FTB Ranks (Forge)
+
+FTB Teams (Forge)
+
+FTB Ultimine
+
+FTB XMod Compat
+
+Fusion (Connected Textures)
+
+Game Menu Mod Option [Forge]
+
+GeckoLib
+
+Gendustry: Community Edition
+
+Get It Together, Drops!
+
+Glodium
+
+Goblin Traders
+
+GravelMiner
+
+Handcrafted
+
+Hostile Neural Networks
+
+Iceberg [Neo/Forge]
+
+ImmediatelyFast
+
+Immersive Aircraft
+
+Immersive Armors
+
+Immersive Engineering
+
+Immersive Paintings 
+
+Infinite Abyss
+
+Inventory Essentials
+
+Inventory Sorter
+
+Iron Ender Chests
+
+Iron Furnaces
+
+Iron Jetpacks
+
+Iron Ladders
+
+Item Filters
+
+Jade
+
+Jade Addons
+
+JadeColonies
+
+JourneyMap
+
+JourneyMap Integration
+
+Just Enough Calculation
+
+Just Enough Items
+
+Just Enough Professions
+
+Just Enough Resources
+
+KleeSlabs
+
+Konkrete [Forge/NeoForge]
+
+Kotlin For Forge
+
+Krypton Reforged
+
+Laendli Transport
+
+Large Ore Deposits
+
+Laser Bridges & Doors
+
+Library Ferret - Forge
+
+Limited Chunkloading
+
+Load My F***ing Tags
+
+Log Begone
+
+Loot Integrations (optional) (server)
+
+Lootr
+
+Macaw's Bridges
+
+Macaw's Doors
+
+Macaw's Fences and Walls
+
+Macaw's Furniture
+
+Macaw's Lights and Lamps
+
+Macaw's Paths and Pavings
+
+Macaw's Roofs
+
+Macaw's Trapdoors
+
+Macaw's Windows
+
+Magic Vibe Decoration (Crystals, Halloween additions)
+
+Mana and Artifice
+
+ManyIdeas Core
+
+ManyIdeas Doors
+
+McJtyLib
+
+ME Requester
+
+Medieval Music
+
+Mega Cells
+
+Mekanism
+
+Mekanism Tools
+
+Melody
+
+MineColonies
+
+MineColonies: Block Party
+
+MineColonies For ComputerCraft
+
+Miner's Delight +
+
+MnA Arcane Additions
+
+Mo' Glowstone
+
+Mo' Glowstone Lamps 
+
+ModernFix
+
+Modonomicon
+
+Modular Routers
+
+Moonlight Lib
+
+More Chest Variants [MCV]
+
+More Crafting Tables [MCT]
+
+More Furnace Variants [MFV]
+
+Mouse Tweaks
+
+Moving Elevators
+
+MrCrayfish's Furniture Mod: Refurbished
+
+Multi-Piston
+
+My Server Is Compatible
+
+Mystical Adaptations
+
+Mystical Agradditions
+
+Mystical Agriculture
+
+Mystical Agriculture Tiered Crystals
+
+MythicBotany
+
+Nature's Compass
+
+Neat
+
+Nether Depths Upgrade
+
+Nether's Delight
+
+No Chat Reports
+
+Noisium
+
+Not Enough Recipe Book [NERB]
+
+Occultism
+
+Oculus
+
+Oh The Biomes We've Gone [BWG]
+
+Oh The Trees You'll Grow
+
+Oreberries Replanted
+
+Out of Sight
+
+Packet Fixer
+
+Patchouli
+
+Patterned Glass
+
+Pipe Connector
+
+Pipez
+
+Placebo
+
+Player Guilds
+
+PlayerRevive
+
+PneumaticCraft Repressurized
+
+Polymorph
+
+Polymorphic Energistics
+
+Portable Crafting Table
+
+Powah! (Rearchitected)
+
+Productive Bees
+
+Quark
+
+Recipes Library
+
+Resourceful Config
+
+Resourceful Lib
+
+RFTools Base
+
+RFTools Control
+
+RFTools Power
+
+RFTools Utility
+
+Savage Ender Dragon
+
+Searchables
+
+SebastrnLib
+
+Security Craft
+
+ServerCore
+
+Server Performance - Smooth Chunk Save
+
+Shadowlands
+
+ShadowizardLib
+
+Shoppy
+
+Simple Magnets
+
+Simply Light
+
+Skart's Decorations
+
+Skin Layers 3D
+
+Skinned Lanterns
+
+SmartBrainLib
+
+Smelting Plus
+
+Sophisticated Backpacks
+
+Sophisticated Core
+
+Sown's Star Wars Mod [Additions to the Outer Rim]
+
+spark
+
+Spice of Life Carrot Edition
+
+Stack Refill
+
+Stargate Journey
+
+Starter Kit
+
+Storage Drawers
+
+Storage Racks
+
+Structory Towers
+
+Structure Gel API
+
+Structurize
+
+Stylecolonies
+
+SuperMartijn642's Config Lib
+
+SuperMartijn642's Core Lib
+
+Supplementaries
+
+TerraBlender
+
+Thaumon
+
+The Aether
+
+The Midnight
+
+The New Shutters
+
+The Twilight Forest
+
+The Undergarden
+
+Tinker's Compatibility
+
+Tinkers Construct
+
+Tinted Campfires
+
+Tinted Dyes
+
+Tinted Grass
+
+Tinted Planks
+
+Tinted Sands
+
+Tinted Torches
+
+Titanium
+
+Torchmaster
+
+TownTalk
+
+Toybox
+
+TrashSlot
+
+Tropicraft
+
+Twilight Forest The Lost Blocks
+
+Ultreon Devices Mod
+
+Underwater Enchanting
+
+Valhelsia Core
+
+Vampiric Ageing
+
+Vampirism
+
+Wandering Cowards
+
+Waystones
+
+Werewolves - Become a Beast!
+
+Weather Settings
+
+Wireless Redstone
+
+XNet
+
+Xtones Reworked
+
+XYCraft
+
+XYCraft: Machines
+
+XYCraft: World
+
+ZeroCore 2
+
+Zeta
+
+Zume
